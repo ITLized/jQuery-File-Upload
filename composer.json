@@ -1,0 +1,20 @@
+{
+    "name": "itlized/jquery-file-upload"
+    , "description": "File Upload widget with multiple file selection, drag & drop support, progress bar, validation and preview images, audio and video for jQuery"
+    , "keywords": ["jquery-file-upload"]
+    , "homepage": "https://github.com/blueimp/jQuery-File-Upload"
+    , "authors": [
+        {
+            "name": "Michael Bui",
+            "email": "michael@itlized.com"
+        },
+        {
+            "name": "Sebastian Tschan",
+            "email": "sebastian.tschan@gmail.com"
+        }
+    ]
+    , "support": {
+        "issues": "https://github.com/ITLized/jQuery-File-Upload/issues"
+    }
+    , "license": "Apache-2.0"
+}
